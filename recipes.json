@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "recipeVersion": 4,
-  "publishedAt": "2026-09-23",
-  "notes": "全面扩充菜谱步骤，增加备料、明确火力与时间、下锅顺序、熟度判断和关键技巧；现共 125 道。",
+  "recipeVersion": 5,
+  "publishedAt": "2026-09-24",
+  "notes": "新增 10 道参考村驴公开教程整理的家常菜，均改写为一人份精确用量；其中含无猪肉、无酒适配版本。现共 135 道。",
   "recipes": [
     {
       "id": 1,
@@ -15,33 +15,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 300.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -68,38 +68,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 300.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -126,33 +126,33 @@
       "mealPrep": true,
       "ingredients": [
         {
+          "unit": "g",
           "name": "鸡胸肉",
-          "unit": "g",
           "amount": 250.0
         },
         {
+          "unit": "g",
           "name": "番茄",
-          "unit": "g",
           "amount": 250.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -179,33 +179,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 250.0
         },
         {
-          "name": "黄瓜",
           "unit": "g",
+          "name": "黄瓜",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -232,43 +232,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 280.0
         },
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -295,33 +295,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 250.0
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 160.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -348,38 +348,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 300.0
         },
         {
-          "name": "甜椒",
           "unit": "g",
+          "name": "甜椒",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "孜然粉",
           "unit": "g",
+          "name": "孜然粉",
           "amount": 3
         }
       ],
@@ -406,38 +406,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 300.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -464,33 +464,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 250.0
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -517,38 +517,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 260.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         }
       ],
@@ -575,38 +575,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 280.0
         },
         {
-          "name": "大白菜",
           "unit": "g",
+          "name": "大白菜",
           "amount": 300.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -633,33 +633,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 260.0
         },
         {
-          "name": "西葫芦",
           "unit": "g",
+          "name": "西葫芦",
           "amount": 200.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -686,33 +686,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 250.0
         },
         {
-          "name": "甜椒",
           "unit": "g",
+          "name": "甜椒",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -739,38 +739,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 280.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 300.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -797,33 +797,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 250.0
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -850,38 +850,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 280.0
         },
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 250.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -908,33 +908,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 250.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -961,38 +961,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 250.0
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "孜然粉",
           "unit": "g",
+          "name": "孜然粉",
           "amount": 3
         }
       ],
@@ -1019,43 +1019,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 260.0
         },
         {
-          "name": "胡萝卜",
           "unit": "g",
+          "name": "胡萝卜",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -1082,33 +1082,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 240.0
         },
         {
-          "name": "芹菜",
           "unit": "g",
+          "name": "芹菜",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1135,38 +1135,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 220.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -1193,38 +1193,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 260.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         }
       ],
@@ -1251,33 +1251,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 250.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 260.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1304,43 +1304,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 250.0
         },
         {
-          "name": "甜椒",
           "unit": "g",
+          "name": "甜椒",
           "amount": 160.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -1367,33 +1367,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 240.0
         },
         {
-          "name": "芦笋",
           "unit": "g",
+          "name": "芦笋",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1420,38 +1420,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 220.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 250.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 180
         }
       ],
@@ -1478,38 +1478,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鱿鱼圈",
           "unit": "g",
+          "name": "鱿鱼圈",
           "amount": 280.0
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         }
       ],
@@ -1536,33 +1536,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鱿鱼圈",
           "unit": "g",
+          "name": "鱿鱼圈",
           "amount": 260.0
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1589,33 +1589,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 180.0
         },
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 250.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1642,33 +1642,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "三文鱼",
           "unit": "g",
+          "name": "三文鱼",
           "amount": 250.0
         },
         {
-          "name": "芦笋",
           "unit": "g",
+          "name": "芦笋",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1695,33 +1695,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鳕鱼",
           "unit": "g",
+          "name": "鳕鱼",
           "amount": 280.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 260.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1748,33 +1748,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鲈鱼",
           "unit": "g",
+          "name": "鲈鱼",
           "amount": 350.0
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 15.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1801,33 +1801,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鳕鱼",
           "unit": "g",
+          "name": "鳕鱼",
           "amount": 280.0
         },
         {
-          "name": "西葫芦",
           "unit": "g",
+          "name": "西葫芦",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1854,33 +1854,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鳕鱼",
           "unit": "g",
+          "name": "鳕鱼",
           "amount": 240.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1907,33 +1907,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "巴沙鱼",
           "unit": "g",
+          "name": "巴沙鱼",
           "amount": 300.0
         },
         {
-          "name": "豆芽",
           "unit": "g",
+          "name": "豆芽",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -1960,43 +1960,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鳕鱼",
           "unit": "g",
+          "name": "鳕鱼",
           "amount": 280.0
         },
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 200.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -2023,33 +2023,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "三文鱼",
           "unit": "g",
+          "name": "三文鱼",
           "amount": 250.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 230.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2076,33 +2076,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 280.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2128,33 +2128,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2180,38 +2180,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 120.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "温水",
           "unit": "ml",
+          "name": "温水",
           "amount": 180
         }
       ],
@@ -2236,23 +2236,23 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.6
         }
       ],
@@ -2278,33 +2278,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "菠菜",
           "unit": "g",
+          "name": "菠菜",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2330,33 +2330,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 160.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2382,38 +2382,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "温水",
           "unit": "ml",
+          "name": "温水",
           "amount": 180
         }
       ],
@@ -2438,33 +2438,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "西葫芦",
           "unit": "g",
+          "name": "西葫芦",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2490,33 +2490,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 350.0
         },
         {
-          "name": "香菇",
           "unit": "g",
+          "name": "香菇",
           "amount": 120.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2542,33 +2542,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 350.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 260.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2594,33 +2594,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 350.0
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 160.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2646,33 +2646,33 @@
       "mealPrep": true,
       "ingredients": [
         {
+          "unit": "g",
           "name": "豆腐",
-          "unit": "g",
           "amount": 320.0
         },
         {
+          "unit": "g",
           "name": "大白菜",
-          "unit": "g",
           "amount": 320.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2698,43 +2698,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 350.0
         },
         {
-          "name": "甜椒",
           "unit": "g",
+          "name": "甜椒",
           "amount": 160.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -2761,33 +2761,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 320.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 200.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2813,33 +2813,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 320.0
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2865,33 +2865,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 350.0
         },
         {
-          "name": "木耳",
           "unit": "g",
+          "name": "木耳",
           "amount": 80.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -2917,38 +2917,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 350.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 15.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         }
       ],
@@ -2974,33 +2974,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "生菜",
           "unit": "g",
+          "name": "生菜",
           "amount": 350.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3026,33 +3026,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "西葫芦",
           "unit": "g",
+          "name": "西葫芦",
           "amount": 350.0
         },
         {
-          "name": "胡萝卜",
           "unit": "g",
+          "name": "胡萝卜",
           "amount": 80.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3078,33 +3078,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "卷心菜",
           "unit": "g",
+          "name": "卷心菜",
           "amount": 400.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3130,33 +3130,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 350.0
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 80.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3182,33 +3182,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "上海青",
           "unit": "g",
+          "name": "上海青",
           "amount": 350.0
         },
         {
-          "name": "香菇",
           "unit": "g",
+          "name": "香菇",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3234,33 +3234,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "四季豆",
           "unit": "g",
+          "name": "四季豆",
           "amount": 350.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 15.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3286,38 +3286,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "菠菜",
           "unit": "g",
+          "name": "菠菜",
           "amount": 350.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 15.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         }
       ],
@@ -3343,33 +3343,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "茄子",
           "unit": "g",
+          "name": "茄子",
           "amount": 350.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3395,33 +3395,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "芦笋",
           "unit": "g",
+          "name": "芦笋",
           "amount": 250.0
         },
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3447,33 +3447,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 280.0
         },
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3500,33 +3500,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "面条",
           "unit": "g",
+          "name": "面条",
           "amount": 120.0
         },
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3553,38 +3553,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "面条",
           "unit": "g",
+          "name": "面条",
           "amount": 120.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 250.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2
         }
       ],
@@ -3611,33 +3611,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 280.0
         },
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3664,43 +3664,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 250.0
         },
         {
-          "name": "鸡腿肉",
           "unit": "g",
+          "name": "鸡腿肉",
           "amount": 230.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -3727,33 +3727,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 250.0
         },
         {
-          "name": "菠菜",
           "unit": "g",
+          "name": "菠菜",
           "amount": 150.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3780,33 +3780,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 250.0
         },
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3833,33 +3833,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "面条",
           "unit": "g",
+          "name": "面条",
           "amount": 120.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 220.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3886,33 +3886,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "荞麦面",
           "unit": "g",
+          "name": "荞麦面",
           "amount": 110.0
         },
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 200.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3939,33 +3939,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "米饭",
           "unit": "g",
+          "name": "米饭",
           "amount": 250.0
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 260.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.5
         }
       ],
@@ -3992,33 +3992,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 250.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4045,33 +4045,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "冬瓜",
           "unit": "g",
+          "name": "冬瓜",
           "amount": 350.0
         },
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 150.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4098,33 +4098,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "大白菜",
           "unit": "g",
+          "name": "大白菜",
           "amount": 300.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 250.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4151,33 +4151,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "口蘑",
           "unit": "g",
+          "name": "口蘑",
           "amount": 220.0
         },
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 200.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4204,33 +4204,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "海带",
           "unit": "g",
+          "name": "海带",
           "amount": 100.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 250.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4257,33 +4257,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "菠菜",
           "unit": "g",
+          "name": "菠菜",
           "amount": 220.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4310,33 +4310,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 280.0
         },
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 220.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4363,33 +4363,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "甜玉米",
           "unit": "g",
+          "name": "甜玉米",
           "amount": 220.0
         },
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 200.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4416,33 +4416,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "白萝卜",
           "unit": "g",
+          "name": "白萝卜",
           "amount": 350.0
         },
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 240.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4469,33 +4469,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 320.0
         },
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 120.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4522,33 +4522,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "紫菜",
           "unit": "g",
+          "name": "紫菜",
           "amount": 8.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4575,33 +4575,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "混合蘑菇",
           "unit": "g",
+          "name": "混合蘑菇",
           "amount": 250.0
         },
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 220.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 650
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白胡椒",
           "unit": "g",
+          "name": "白胡椒",
           "amount": 0.3
         }
       ],
@@ -4628,33 +4628,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "黄瓜",
           "unit": "g",
+          "name": "黄瓜",
           "amount": 350.0
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4680,33 +4680,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "泡发木耳",
           "unit": "g",
+          "name": "泡发木耳",
           "amount": 220.0
         },
         {
-          "name": "黄瓜",
           "unit": "g",
+          "name": "黄瓜",
           "amount": 120.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4732,33 +4732,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "泡发海带丝",
           "unit": "g",
+          "name": "泡发海带丝",
           "amount": 250.0
         },
         {
-          "name": "胡萝卜",
           "unit": "g",
+          "name": "胡萝卜",
           "amount": 80.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4784,33 +4784,33 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 220.0
         },
         {
-          "name": "黄瓜",
           "unit": "g",
+          "name": "黄瓜",
           "amount": 250.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4836,33 +4836,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 280.0
         },
         {
-          "name": "生菜",
           "unit": "g",
+          "name": "生菜",
           "amount": 220.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4888,33 +4888,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "牛肉",
           "unit": "g",
+          "name": "牛肉",
           "amount": 220.0
         },
         {
-          "name": "生菜",
           "unit": "g",
+          "name": "生菜",
           "amount": 250.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -4940,23 +4940,23 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3.0
         },
         {
-          "name": "西葫芦",
           "unit": "g",
+          "name": "西葫芦",
           "amount": 180.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.6
         }
       ],
@@ -4982,28 +4982,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "燕麦片",
           "unit": "g",
+          "name": "燕麦片",
           "amount": 60.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 700
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 3
         }
       ],
@@ -5029,28 +5029,28 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "大米",
           "unit": "g",
+          "name": "大米",
           "amount": 70.0
         },
         {
-          "name": "虾仁",
           "unit": "g",
+          "name": "虾仁",
           "amount": 150.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 700
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 3
         }
       ],
@@ -5076,28 +5076,28 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "大米",
           "unit": "g",
+          "name": "大米",
           "amount": 70.0
         },
         {
-          "name": "鸡胸肉",
           "unit": "g",
+          "name": "鸡胸肉",
           "amount": 180.0
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 700
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 3
         }
       ],
@@ -5123,33 +5123,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "全麦面包",
           "unit": "g",
+          "name": "全麦面包",
           "amount": 120.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 25
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.5
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.3
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 220
         }
       ],
@@ -5175,28 +5175,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "水浸金枪鱼",
           "unit": "g",
+          "name": "水浸金枪鱼",
           "amount": 150.0
         },
         {
-          "name": "生菜",
           "unit": "g",
+          "name": "生菜",
           "amount": 220.0
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 25
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.5
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.3
         }
       ],
@@ -5222,18 +5222,18 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "燕麦片",
           "unit": "g",
+          "name": "燕麦片",
           "amount": 60
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 200
         },
         {
-          "name": "香蕉",
           "unit": "g",
+          "name": "香蕉",
           "amount": 120
         }
       ],
@@ -5258,23 +5258,23 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "香蕉",
           "unit": "g",
+          "name": "香蕉",
           "amount": 120.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.6
         }
       ],
@@ -5300,33 +5300,33 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "豆腐",
           "unit": "g",
+          "name": "豆腐",
           "amount": 220.0
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2.0
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -5352,58 +5352,58 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "去骨鸡腿肉",
           "unit": "g",
+          "name": "去骨鸡腿肉",
           "amount": 300
         },
         {
+          "unit": "g",
           "name": "鲜香菇",
-          "unit": "g",
           "amount": 120
         },
         {
+          "unit": "g",
           "name": "青椒",
-          "unit": "g",
           "amount": 120
         },
         {
-          "name": "土豆",
           "unit": "g",
+          "name": "土豆",
           "amount": 180
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 8
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 12
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 3
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 260
         }
       ],
@@ -5428,68 +5428,68 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "去骨鸡腿肉",
           "unit": "g",
+          "name": "去骨鸡腿肉",
           "amount": 280
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 50
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 300
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 80
         },
         {
-          "name": "淡奶油",
           "unit": "ml",
+          "name": "淡奶油",
           "amount": 50
         },
         {
-          "name": "黄油",
           "unit": "g",
+          "name": "黄油",
           "amount": 18
         },
         {
-          "name": "腰果",
           "unit": "g",
+          "name": "腰果",
           "amount": 15
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 10
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 8
         },
         {
-          "name": "咖喱粉",
           "unit": "g",
+          "name": "咖喱粉",
           "amount": 7
         },
         {
-          "name": "孜然粉",
           "unit": "g",
+          "name": "孜然粉",
           "amount": 2
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 80
         }
       ],
@@ -5514,38 +5514,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "鸡翅中",
           "unit": "g",
+          "name": "鸡翅中",
           "amount": 320
         },
         {
-          "name": "可乐",
           "unit": "ml",
+          "name": "可乐",
           "amount": 260
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 12
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 3
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -5570,63 +5570,63 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "去骨鸡腿肉",
           "unit": "g",
+          "name": "去骨鸡腿肉",
           "amount": 280
         },
         {
-          "name": "鲜香菇",
           "unit": "g",
+          "name": "鲜香菇",
           "amount": 160
         },
         {
-          "name": "葱",
           "unit": "g",
+          "name": "葱",
           "amount": 15
         },
         {
+          "unit": "g",
           "name": "姜",
-          "unit": "g",
           "amount": 8
         },
         {
+          "unit": "g",
           "name": "蒜",
-          "unit": "g",
           "amount": 8
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 7
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 12
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 2
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 3
         },
         {
+          "unit": "g",
           "name": "白糖",
-          "unit": "g",
           "amount": 3
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 100
         }
       ],
@@ -5651,38 +5651,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "去骨鸡腿肉",
           "unit": "g",
+          "name": "去骨鸡腿肉",
           "amount": 300
         },
         {
+          "unit": "g",
           "name": "姜",
-          "unit": "g",
           "amount": 25
         },
         {
+          "unit": "g",
           "name": "葱",
-          "unit": "g",
           "amount": 25
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 12
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 2
         }
       ],
@@ -5707,48 +5707,48 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "带壳大虾",
           "unit": "g",
+          "name": "带壳大虾",
           "amount": 300
         },
         {
-          "name": "葱",
           "unit": "g",
+          "name": "葱",
           "amount": 25
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 12
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 12
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 5
         },
         {
-          "name": "冰糖",
           "unit": "g",
+          "name": "冰糖",
           "amount": 7
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 120
         }
       ],
@@ -5773,43 +5773,43 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "带壳大虾",
           "unit": "g",
+          "name": "带壳大虾",
           "amount": 250
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 100
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 12
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 10
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 10
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 8
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 3
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 30
         }
       ],
@@ -5834,38 +5834,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "去壳大虾",
           "unit": "g",
+          "name": "去壳大虾",
           "amount": 240
         },
         {
+          "unit": "g",
           "name": "无盐黄油",
-          "unit": "g",
           "amount": 18
         },
         {
+          "unit": "g",
           "name": "蒜",
-          "unit": "g",
           "amount": 18
         },
         {
-          "name": "柠檬汁",
           "unit": "ml",
+          "name": "柠檬汁",
           "amount": 10
         },
         {
-          "name": "橄榄油",
           "unit": "ml",
+          "name": "橄榄油",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.6
         }
       ],
@@ -5890,58 +5890,58 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "整条鲈鱼",
           "unit": "g",
+          "name": "整条鲈鱼",
           "amount": 450
         },
         {
+          "unit": "g",
           "name": "姜",
-          "unit": "g",
           "amount": 12
         },
         {
+          "unit": "g",
           "name": "蒜",
-          "unit": "g",
           "amount": 12
         },
         {
+          "unit": "g",
           "name": "葱",
-          "unit": "g",
           "amount": 15
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 15
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 12
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 3
         },
         {
-          "name": "米醋",
           "unit": "ml",
+          "name": "米醋",
           "amount": 6
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 280
         }
       ],
@@ -5966,53 +5966,53 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "茄子",
           "unit": "g",
+          "name": "茄子",
           "amount": 350
         },
         {
-          "name": "番茄",
           "unit": "g",
+          "name": "番茄",
           "amount": 180
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 100
         },
         {
-          "name": "洋葱",
           "unit": "g",
+          "name": "洋葱",
           "amount": 80
         },
         {
+          "unit": "g",
           "name": "蒜",
-          "unit": "g",
           "amount": 12
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 12
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 12
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 8
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1.2
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 150
         }
       ],
@@ -6037,38 +6037,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 300
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 10
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 10
         },
         {
+          "unit": "ml",
           "name": "米醋",
-          "unit": "ml",
           "amount": 10
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -6093,38 +6093,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "大白菜嫩叶",
           "unit": "g",
+          "name": "大白菜嫩叶",
           "amount": 250
         },
         {
-          "name": "芝麻酱",
           "unit": "g",
+          "name": "芝麻酱",
           "amount": 25
         },
         {
-          "name": "香醋",
           "unit": "ml",
+          "name": "香醋",
           "amount": 35
         },
         {
+          "unit": "g",
           "name": "白糖",
-          "unit": "g",
           "amount": 4
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "熟白芝麻",
           "unit": "g",
+          "name": "熟白芝麻",
           "amount": 3
         }
       ],
@@ -6149,48 +6149,48 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "老豆腐",
           "unit": "g",
+          "name": "老豆腐",
           "amount": 350
         },
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 1
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 35
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 12
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 12
         },
         {
-          "name": "蚝油",
           "unit": "ml",
+          "name": "蚝油",
           "amount": 7
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 2
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 4
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 120
         }
       ],
@@ -6215,38 +6215,38 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "老豆腐",
           "unit": "g",
+          "name": "老豆腐",
           "amount": 350
         },
         {
-          "name": "青椒",
           "unit": "g",
+          "name": "青椒",
           "amount": 80
         },
         {
-          "name": "葱",
           "unit": "g",
+          "name": "葱",
           "amount": 20
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 10
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 8
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 40
         }
       ],
@@ -6271,48 +6271,48 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "金针菇",
           "unit": "g",
+          "name": "金针菇",
           "amount": 220
         },
         {
-          "name": "黄瓜",
           "unit": "g",
+          "name": "黄瓜",
           "amount": 120
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 10
         },
         {
-          "name": "葱",
           "unit": "g",
+          "name": "葱",
           "amount": 5
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 10
         },
         {
+          "unit": "ml",
           "name": "米醋",
-          "unit": "ml",
           "amount": 10
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 4
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 2
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.5
         }
       ],
@@ -6337,58 +6337,58 @@
       "mealPrep": true,
       "ingredients": [
         {
+          "unit": "g",
           "name": "鲜香菇",
-          "unit": "g",
           "amount": 100
         },
         {
+          "unit": "g",
           "name": "蟹味菇",
-          "unit": "g",
           "amount": 100
         },
         {
+          "unit": "g",
           "name": "白玉菇",
-          "unit": "g",
           "amount": 100
         },
         {
-          "name": "西兰花",
           "unit": "g",
+          "name": "西兰花",
           "amount": 150
         },
         {
+          "unit": "g",
           "name": "姜",
-          "unit": "g",
           "amount": 5
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 8
         },
         {
+          "unit": "ml",
           "name": "生抽",
-          "unit": "ml",
           "amount": 8
         },
         {
+          "unit": "ml",
           "name": "蚝油",
-          "unit": "ml",
           "amount": 8
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 5
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 60
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.6
         }
       ],
@@ -6413,43 +6413,43 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "甜玉米粒",
           "unit": "g",
+          "name": "甜玉米粒",
           "amount": 220
         },
         {
-          "name": "熟松子仁",
           "unit": "g",
+          "name": "熟松子仁",
           "amount": 25
         },
         {
-          "name": "胡萝卜",
           "unit": "g",
+          "name": "胡萝卜",
           "amount": 60
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 8
         },
         {
-          "name": "白糖",
           "unit": "g",
+          "name": "白糖",
           "amount": 6
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 4
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 25
         }
       ],
@@ -6474,28 +6474,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "甜玉米粒",
           "unit": "g",
+          "name": "甜玉米粒",
           "amount": 280
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 35
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 12
         },
         {
-          "name": "椒盐粉",
           "unit": "g",
+          "name": "椒盐粉",
           "amount": 3
         },
         {
-          "name": "熟白芝麻",
           "unit": "g",
+          "name": "熟白芝麻",
           "amount": 6
         }
       ],
@@ -6520,28 +6520,28 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "花菜",
           "unit": "g",
+          "name": "花菜",
           "amount": 350
         },
         {
-          "name": "蒜",
           "unit": "g",
+          "name": "蒜",
           "amount": 12
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 7
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 1
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 40
         }
       ],
@@ -6566,28 +6566,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "菠菜或上海青",
           "unit": "g",
+          "name": "菠菜或上海青",
           "amount": 350
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 150
         },
         {
-          "name": "食用油",
           "unit": "ml",
+          "name": "食用油",
           "amount": 3
         },
         {
-          "name": "蚝油",
           "unit": "ml",
+          "name": "蚝油",
           "amount": 4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         }
       ],
@@ -6612,53 +6612,53 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "冬瓜",
           "unit": "g",
+          "name": "冬瓜",
           "amount": 400
         },
         {
-          "name": "姜",
           "unit": "g",
+          "name": "姜",
           "amount": 6
         },
         {
-          "name": "葱",
           "unit": "g",
+          "name": "葱",
           "amount": 8
         },
         {
+          "unit": "ml",
           "name": "食用油",
-          "unit": "ml",
           "amount": 8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 10
         },
         {
-          "name": "老抽",
           "unit": "ml",
+          "name": "老抽",
           "amount": 2
         },
         {
-          "name": "蚝油",
           "unit": "ml",
+          "name": "蚝油",
           "amount": 6
         },
         {
-          "name": "玉米淀粉",
           "unit": "g",
+          "name": "玉米淀粉",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.6
         },
         {
-          "name": "清水",
           "unit": "ml",
+          "name": "清水",
           "amount": 220
         }
       ],
@@ -6683,28 +6683,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 2
         },
         {
-          "name": "温水",
           "unit": "ml",
+          "name": "温水",
           "amount": 150
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "生抽",
           "unit": "ml",
+          "name": "生抽",
           "amount": 5
         },
         {
-          "name": "芝麻油",
           "unit": "ml",
+          "name": "芝麻油",
           "amount": 2
         }
       ],
@@ -6729,28 +6729,28 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "鸡蛋",
           "unit": "个",
+          "name": "鸡蛋",
           "amount": 3
         },
         {
-          "name": "全脂牛奶",
           "unit": "ml",
+          "name": "全脂牛奶",
           "amount": 20
         },
         {
-          "name": "黄油",
           "unit": "g",
+          "name": "黄油",
           "amount": 5
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.8
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.3
         }
       ],
@@ -6775,28 +6775,28 @@
       "mealPrep": true,
       "ingredients": [
         {
-          "name": "燕麦片",
           "unit": "g",
+          "name": "燕麦片",
           "amount": 55
         },
         {
-          "name": "牛奶",
           "unit": "ml",
+          "name": "牛奶",
           "amount": 250
         },
         {
-          "name": "香蕉",
           "unit": "g",
+          "name": "香蕉",
           "amount": 100
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 80
         },
         {
-          "name": "肉桂粉",
           "unit": "g",
+          "name": "肉桂粉",
           "amount": 0.5
         }
       ],
@@ -6821,38 +6821,38 @@
       "mealPrep": false,
       "ingredients": [
         {
-          "name": "水浸金枪鱼",
           "unit": "g",
+          "name": "水浸金枪鱼",
           "amount": 130
         },
         {
-          "name": "全麦吐司",
           "unit": "g",
+          "name": "全麦吐司",
           "amount": 120
         },
         {
-          "name": "原味酸奶",
           "unit": "g",
+          "name": "原味酸奶",
           "amount": 45
         },
         {
-          "name": "酸黄瓜",
           "unit": "g",
+          "name": "酸黄瓜",
           "amount": 35
         },
         {
-          "name": "生菜",
           "unit": "g",
+          "name": "生菜",
           "amount": 50
         },
         {
-          "name": "黑胡椒",
           "unit": "g",
+          "name": "黑胡椒",
           "amount": 0.4
         },
         {
-          "name": "盐",
           "unit": "g",
+          "name": "盐",
           "amount": 0.5
         }
       ],
@@ -6865,6 +6865,776 @@
       ],
       "tips": "用原味酸奶替代大量蛋黄酱；拌好的金枪鱼馅冷藏不超过 24 小时。",
       "source": "参考 GitHub Anduin2017/HowToCook（检索时 102,328 Stars，The Unlicense），按单人份、无猪肉、无酒类调味和德国采购条件重新整理。"
+    },
+    {
+      "id": 126,
+      "name": "村驴风柠檬手撕鸡",
+      "category": "鸡肉",
+      "method": "煮/焖/凉拌",
+      "time": 55,
+      "difficulty": 2,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "带骨鸡腿",
+          "amount": 320
+        },
+        {
+          "unit": "g",
+          "name": "柠檬",
+          "amount": 80
+        },
+        {
+          "unit": "g",
+          "name": "洋葱",
+          "amount": 60
+        },
+        {
+          "unit": "g",
+          "name": "香菜",
+          "amount": 10
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 15
+        },
+        {
+          "unit": "g",
+          "name": "姜",
+          "amount": 10
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 15
+        },
+        {
+          "unit": "ml",
+          "name": "陈醋",
+          "amount": 10
+        },
+        {
+          "unit": "ml",
+          "name": "蚝油",
+          "amount": 8
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 4
+        },
+        {
+          "unit": "g",
+          "name": "辣椒面",
+          "amount": 2
+        },
+        {
+          "unit": "g",
+          "name": "熟白芝麻",
+          "amount": 2
+        },
+        {
+          "unit": "ml",
+          "name": "花椒油",
+          "amount": 2
+        },
+        {
+          "unit": "ml",
+          "name": "芝麻油",
+          "amount": 2
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 1
+        }
+      ],
+      "steps": [
+        "鸡腿放入冷水中浸泡 20 分钟，挤净骨缝附近的血水；柠檬刷洗干净并去籽，洋葱切细丝，香菜切段，蒜切末。",
+        "锅中加能没过鸡腿的冷水，放入一半姜片；大火烧开后撇净浮沫，立刻转最小火约 450W 煮 6 分钟。",
+        "关火但不要开盖，利用余温继续焖 25–30 分钟；最厚处用筷子扎入后流出的汁水应当清澈，不能带粉红色。",
+        "辣椒面、白芝麻和蒜末放入耐热碗。把 8ml 食用油加热至微微冒烟，分两次淋入并搅匀，再加入生抽、陈醋、蚝油、白糖、盐、花椒油和芝麻油。",
+        "鸡腿捞出放凉 8 分钟，去骨后顺着纹理撕成约 1cm 宽的条；保留 15ml 煮鸡汤加入料汁，味道会更融合。",
+        "加入洋葱丝、香菜和一半柠檬片，倒入料汁抓拌均匀；剩余柠檬只挤汁，不要长时间浸泡白色内皮，以免发苦。",
+        "静置 10 分钟再吃。用于备餐时鸡肉与料汁分开冷藏，食用前再拌，24 小时内吃完。"
+      ],
+      "tips": "核心是“小火 6 分钟＋关火焖熟”，不要一直大火滚煮；柠檬必须去籽，白色内皮泡太久会苦。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 127,
+      "name": "村驴风葱油拌面",
+      "category": "主食",
+      "method": "熬葱油/拌",
+      "time": 25,
+      "difficulty": 2,
+      "diet": false,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "鲜面条",
+          "amount": 120
+        },
+        {
+          "unit": "g",
+          "name": "小葱",
+          "amount": 50
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 25
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 18
+        },
+        {
+          "unit": "ml",
+          "name": "老抽",
+          "amount": 4
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 6
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 10
+        }
+      ],
+      "steps": [
+        "小葱洗净后用厨房纸彻底擦干，葱白和葱绿分别切成 5cm 段；生抽、老抽、白糖和清水提前调匀。",
+        "冷锅加入 25ml 油和葱白，小火约 450W 加热 3 分钟；加入葱绿后继续小火慢熬 7–9 分钟。",
+        "葱段颜色变成深绿色、边缘微焦且质地发脆时关火。不要熬成黑色，否则葱油会明显发苦。",
+        "等待油温下降约 1 分钟，再倒入调好的酱汁；重新开小火搅拌 30–45 秒，白糖完全融化、锅边出现细泡即可。",
+        "另起锅烧开 1L 水，放入面条并按包装时间煮熟；捞出后充分沥水，但不要用冷水冲。",
+        "先在面中加入约 20ml 葱油酱拌匀，尝味后再逐勺添加；最后铺上脆葱段。剩余葱油冷藏不超过 5 天。"
+      ],
+      "tips": "葱必须擦干再下油；酱油不能在高温油里直接久煮。配方会略有余量，先拌一部分，避免一次放完过咸。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 128,
+      "name": "村驴风酱黄瓜",
+      "category": "凉菜早餐",
+      "method": "腌",
+      "time": 25,
+      "difficulty": 1,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "黄瓜",
+          "amount": 300
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 30
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 35
+        },
+        {
+          "unit": "ml",
+          "name": "陈醋",
+          "amount": 33
+        },
+        {
+          "unit": "ml",
+          "name": "老抽",
+          "amount": 6
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 24
+        },
+        {
+          "unit": "g",
+          "name": "小米辣",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "香菜梗",
+          "amount": 5
+        },
+        {
+          "unit": "g",
+          "name": "花椒",
+          "amount": 0.6
+        },
+        {
+          "unit": "个",
+          "name": "干辣椒",
+          "amount": 1
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 6
+        }
+      ],
+      "steps": [
+        "黄瓜刷洗干净，纵向切成四条并削去中间湿软的瓜瓤，再切成约 5cm 长条；蒜切片，小米辣切圈，香菜只取梗切段。",
+        "黄瓜加入 30g 白糖抓拌 1 分钟，静置 15 分钟。糖会带出部分水分，同时保持脆度，不需要另外加盐。",
+        "小锅加入 6ml 油、花椒和干辣椒，小火约 400W 加热 2 分钟，闻到香味立即关火并完全放凉。",
+        "倒掉黄瓜析出的水，加入蒜片、小米辣、香菜梗、生抽、陈醋和老抽，充分抓拌。",
+        "加入放凉的花椒辣椒油再次拌匀；如果不喜欢油，可省略整份油、花椒和干辣椒，不影响腌制。",
+        "装入干净带盖容器冷藏至少 4 小时，隔夜味道更均匀；夹取时使用干净筷子，3 天内吃完。"
+      ],
+      "tips": "去掉瓜瓤是保持爽脆的关键；热油必须放凉再倒入。原做法偏甜，这是按 300g 黄瓜等比例缩小的一人备餐量。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 129,
+      "name": "村驴风拉丝番茄炒蛋",
+      "category": "鸡蛋",
+      "method": "炒/勾芡",
+      "time": 25,
+      "difficulty": 2,
+      "diet": false,
+      "mealPrep": false,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "番茄",
+          "amount": 390
+        },
+        {
+          "unit": "个",
+          "name": "鸡蛋",
+          "amount": 3
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 15
+        },
+        {
+          "unit": "g",
+          "name": "葱花或香菜",
+          "amount": 9
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 15
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 6
+        },
+        {
+          "unit": "ml",
+          "name": "蚝油",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "番茄酱",
+          "amount": 24
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 3
+        },
+        {
+          "unit": "g",
+          "name": "土豆淀粉",
+          "amount": 3
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 1.8
+        }
+      ],
+      "steps": [
+        "番茄约三分之一切滚刀块，剩余切成 1.5cm 大丁并分开放；蒜切末，土豆淀粉和清水调成淀粉水。",
+        "鸡蛋只搅到蛋白蛋黄刚刚混合，不要打入太多空气。锅中加油，中大火约 1500W 烧热后倒蛋液，用铲子轻推形成较长蛋片。",
+        "鸡蛋约八成熟、表面仍有光泽时立刻盛出，用铲子轻压沥掉多余底油，避免余温把蛋炒老。",
+        "锅中留约 5ml 油，关火放入一半蒜末炒香；重新开大火，加入番茄丁和白糖翻炒 2–3 分钟，直到明显出沙冒泡。",
+        "转最小火，加入生抽、蚝油和番茄酱拌匀；再转大火煮开，放入番茄滚刀块和鸡蛋，轻轻翻匀。",
+        "淀粉水再次搅匀，沿锅边分两次淋入，每次都翻匀再加下一次；汤汁变得黏稠、能挂在蛋片上时加入盐。",
+        "关火后加入剩余蒜末和葱花或香菜，翻两下立刻装盘。蒜末分两次放能同时保留熟香和清香。"
+      ],
+      "tips": "番茄丁负责出汤，滚刀块负责保留口感；淀粉水一定要重新搅匀并分次加，才能形成均匀的“拉丝”浓汁。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 130,
+      "name": "村驴风新三鲜",
+      "category": "蔬菜",
+      "method": "大火炒",
+      "time": 18,
+      "difficulty": 1,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "卷心菜",
+          "amount": 300
+        },
+        {
+          "unit": "g",
+          "name": "番茄",
+          "amount": 200
+        },
+        {
+          "unit": "g",
+          "name": "青椒",
+          "amount": 55
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 12
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 8
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 13
+        },
+        {
+          "unit": "ml",
+          "name": "蚝油",
+          "amount": 13
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 2
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 1.2
+        }
+      ],
+      "steps": [
+        "卷心菜去掉硬根后切成约 8mm 宽丝，番茄切片，青椒切丝，蒜拍扁后粗切；所有食材下锅前都要沥干。",
+        "锅中加油，中大火约 1500W 预热 40 秒，放蒜炒 15 秒；加入番茄、白糖和盐，大火翻炒 2 分钟至番茄出沙。",
+        "调到中火，加入生抽和蚝油翻匀 20 秒，让酱汁与番茄汤完全融合。",
+        "重新转大火，先放卷心菜梗较厚的部分炒 40 秒，再放其余卷心菜和青椒。",
+        "大火翻炒 2–3 分钟；喜欢脆口时卷心菜刚断生就出锅，喜欢软糊口感可多炒 1 分钟，不要加盖焖。"
+      ],
+      "tips": "番茄必须先炒出沙再下卷心菜；蔬菜洗后要沥干，全程大火快炒才能避免出一锅水。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 131,
+      "name": "村驴风清炖牛肋条",
+      "category": "牛肉",
+      "method": "焯/慢炖",
+      "time": 125,
+      "difficulty": 2,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "牛肋条",
+          "amount": 350
+        },
+        {
+          "unit": "g",
+          "name": "姜",
+          "amount": 4
+        },
+        {
+          "unit": "g",
+          "name": "大葱",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "苹果",
+          "amount": 25
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 900
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 1.2
+        },
+        {
+          "unit": "g",
+          "name": "白胡椒",
+          "amount": 0.3
+        },
+        {
+          "unit": "g",
+          "name": "香菜",
+          "amount": 5
+        }
+      ],
+      "steps": [
+        "冷冻牛肋条提前一晚放冷藏室解冻，切成约 5cm 段；放冷水中浸泡 30 分钟，中途换水一次。",
+        "牛肉冷水下锅，大火加热；水温升高时轻轻翻动并撇去浮沫，完全沸腾后继续煮 3 分钟。",
+        "从锅中央沸腾最明显的位置捞出牛肉，在热水中轻轻涮去表面浮沫，转入干净厚底锅。不要用冷水冲，以免肉质收紧。",
+        "加入姜片、大葱段和去籽苹果块，倒入约 900ml 开水没过牛肉 3cm；大火重新烧开。",
+        "水完全沸腾后盖盖，转最小火约 450W，保持汤面偶尔冒小泡，慢炖 90 分钟；中途只检查一次水量，缺水时加开水。",
+        "夹出葱、姜和苹果。用筷子能较轻松穿过牛肉时加入盐和白胡椒，再小火煮 5 分钟。",
+        "盛出后撒香菜。多余牛肉和汤分开冷藏，可用于第二天做牛肉面；冷藏不超过 2 天。"
+      ],
+      "tips": "苹果只负责柔和去腥，必须去籽且不要放多；盐最后再加。锅内应保持微沸而不是猛烈翻滚，这样肉不柴、汤也更清。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 132,
+      "name": "村驴风水嫩鸡排",
+      "category": "鸡肉",
+      "method": "腌/煎",
+      "time": 30,
+      "difficulty": 2,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "鸡胸肉",
+          "amount": 300
+        },
+        {
+          "unit": "g",
+          "name": "小苏打",
+          "amount": 1.8
+        },
+        {
+          "unit": "g",
+          "name": "洋葱粉",
+          "amount": 0.6
+        },
+        {
+          "unit": "g",
+          "name": "蒜粉",
+          "amount": 0.6
+        },
+        {
+          "unit": "g",
+          "name": "白胡椒",
+          "amount": 0.2
+        },
+        {
+          "unit": "g",
+          "name": "奥尔良腌料",
+          "amount": 6
+        },
+        {
+          "unit": "g",
+          "name": "玉米淀粉",
+          "amount": 24
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 75
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 0.9
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 6
+        }
+      ],
+      "steps": [
+        "鸡胸肉洗净后用厨房纸彻底擦干，修掉筋膜；横向片成两到三片厚度约 1.2cm 的大片，较厚处用刀背轻拍至均匀。",
+        "小苏打、洋葱粉、蒜粉、白胡椒、奥尔良腌料和盐先与清水搅匀，再加入玉米淀粉调成无干粉的腌料。",
+        "鸡排放入腌料，用手抓拌 2 分钟，直到液体基本被吸收；密封冷藏 8–12 小时。不要在室温长时间腌制。",
+        "煎之前从冰箱取出静置 10 分钟，表面如果有大量游离腌料，用刮刀轻轻刮掉，不要水洗。",
+        "不粘锅加油，中火约 1100W 预热 45 秒，鸡排单层放入，第一面煎 3 分钟；边缘变白后翻面。",
+        "第二面再煎 2–3 分钟，转小火加盖 1 分钟；最厚处切开应完全变白，或中心温度达到约 75°C。",
+        "离锅静置 3 分钟再切条。可以一次腌两顿份量，但生鸡排冷藏不超过 24 小时，多余部分应尽快冷冻。"
+      ],
+      "tips": "小苏打必须精确称量，300g 肉只用 1.8g；鸡肉要片得厚薄一致。配料表中的时间不含隔夜腌制时间。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 133,
+      "name": "村驴风老厨白菜（鸡肉版）",
+      "category": "鸡肉",
+      "method": "炒/焖",
+      "time": 35,
+      "difficulty": 2,
+      "diet": false,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "大白菜",
+          "amount": 250
+        },
+        {
+          "unit": "g",
+          "name": "去骨鸡腿肉",
+          "amount": 120
+        },
+        {
+          "unit": "g",
+          "name": "干粉条",
+          "amount": 45
+        },
+        {
+          "unit": "g",
+          "name": "大葱",
+          "amount": 8
+        },
+        {
+          "unit": "g",
+          "name": "姜",
+          "amount": 4
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 10
+        },
+        {
+          "unit": "个",
+          "name": "干辣椒",
+          "amount": 1
+        },
+        {
+          "unit": "个",
+          "name": "八角",
+          "amount": 0.5
+        },
+        {
+          "unit": "g",
+          "name": "香菜",
+          "amount": 8
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 8
+        },
+        {
+          "unit": "ml",
+          "name": "老抽",
+          "amount": 4
+        },
+        {
+          "unit": "ml",
+          "name": "陈醋",
+          "amount": 20
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 20
+        },
+        {
+          "unit": "ml",
+          "name": "蚝油",
+          "amount": 6
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 1.5
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 0.8
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 120
+        }
+      ],
+      "steps": [
+        "干粉条用刚烧开的水浸泡 12 分钟，能弯曲但中心仍略硬时捞出；白菜叶带少量菜帮，用手撕成大块并充分沥水。",
+        "鸡腿肉切 3mm 薄片；葱姜蒜切好。生抽、陈醋、蚝油、老抽、白糖和清水提前调成碗汁。",
+        "锅中加油，中大火约 1400W 放鸡肉摊开，前 40 秒不动，再翻炒 2 分钟至表面变色，盛出备用。",
+        "原锅放八角、干辣椒、葱姜蒜炒香 20 秒，加入白菜帮大火炒 1 分钟，再放白菜叶炒到刚刚变软。",
+        "加入泡好的粉条和碗汁，煮开后转中小火约 700W，加盖焖 4–5 分钟；中途用筷子把粉条拨散，防止粘成团。",
+        "鸡肉倒回锅中翻匀，再焖 2 分钟；确认鸡肉完全熟透、粉条无硬芯后加盐。",
+        "开盖转大火收汁约 45 秒，汤汁仍留约 30ml 时关火，撒香菜并挑出八角。"
+      ],
+      "tips": "这是无猪肉适配版；粉条只泡到能弯曲，后面还要吸汤。白菜帮和菜叶分两次下锅，口感才一致。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程；为符合本菜库不含猪肉、尽量不用酒的设定，改用鸡肉并重新核算为一人份。"
+    },
+    {
+      "id": 134,
+      "name": "村驴风尖椒干豆腐",
+      "category": "豆腐",
+      "method": "煮/炒/勾芡",
+      "time": 22,
+      "difficulty": 2,
+      "diet": true,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "干豆腐或豆腐皮",
+          "amount": 220
+        },
+        {
+          "unit": "g",
+          "name": "青尖椒",
+          "amount": 100
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 12
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 8
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 10
+        },
+        {
+          "unit": "g",
+          "name": "玉米淀粉",
+          "amount": 6
+        },
+        {
+          "unit": "ml",
+          "name": "清水",
+          "amount": 180
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 0.8
+        },
+        {
+          "unit": "g",
+          "name": "白胡椒",
+          "amount": 0.3
+        }
+      ],
+      "steps": [
+        "干豆腐切成约 3cm 宽的菱形片，尖椒去籽切块，蒜切末；玉米淀粉与 30ml 清水调匀。",
+        "锅中烧开 600ml 水，放入干豆腐煮 90 秒，捞出沥干；这一步能去豆腥并让豆皮更柔软。",
+        "锅中加油，中火约 1100W 炒香一半蒜末 20 秒，加入尖椒翻炒 1 分钟。",
+        "加入干豆腐、生抽、盐、白胡椒和剩余 150ml 清水，煮开后转小火加盖 3 分钟。",
+        "淀粉水重新搅匀，分两次沿锅边淋入，每次都轻推均匀；汤汁变亮、能薄薄挂在豆皮上即可。",
+        "关火加入剩余蒜末翻匀。不要把汁收干，留少量汤汁能让干豆腐保持软嫩。"
+      ],
+      "tips": "德国普通超市不常见干豆腐，可在 Asia Markt 找“豆腐皮/Tofu Sheets”；勾芡要分次加，过厚会发黏。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程，按一人份、德国超市采购和无酒调味重新整理；未复制原视频文案。"
+    },
+    {
+      "id": 135,
+      "name": "村驴风干锅花菜（鸡肉版）",
+      "category": "鸡肉",
+      "method": "焯/煸炒",
+      "time": 28,
+      "difficulty": 2,
+      "diet": false,
+      "mealPrep": true,
+      "ingredients": [
+        {
+          "unit": "g",
+          "name": "花菜",
+          "amount": 350
+        },
+        {
+          "unit": "g",
+          "name": "去骨鸡腿肉",
+          "amount": 120
+        },
+        {
+          "unit": "g",
+          "name": "青椒",
+          "amount": 60
+        },
+        {
+          "unit": "g",
+          "name": "蒜",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "姜",
+          "amount": 6
+        },
+        {
+          "unit": "g",
+          "name": "干辣椒",
+          "amount": 2
+        },
+        {
+          "unit": "g",
+          "name": "豆瓣酱",
+          "amount": 8
+        },
+        {
+          "unit": "ml",
+          "name": "生抽",
+          "amount": 10
+        },
+        {
+          "unit": "g",
+          "name": "白糖",
+          "amount": 2
+        },
+        {
+          "unit": "ml",
+          "name": "食用油",
+          "amount": 12
+        },
+        {
+          "unit": "g",
+          "name": "盐",
+          "amount": 0.5
+        }
+      ],
+      "steps": [
+        "花菜掰成约 3cm 小朵，用淡盐水浸泡 10 分钟后冲净并彻底沥干；鸡腿肉切薄片，青椒切块，蒜拍裂，姜切片。",
+        "锅中水大火烧开，放花菜焯 45–60 秒立刻捞出，摊开散热并沥干。它应当颜色变亮但仍然很硬。",
+        "炒锅加 5ml 油，中大火约 1500W，花菜单层下锅煸炒 2–3 分钟，边缘出现焦黄色后盛出。",
+        "锅中加入剩余油，鸡肉片摊开煎 1 分钟后翻炒至表面完全变色；加入姜、蒜和干辣椒炒 30 秒。",
+        "转小火，加入豆瓣酱炒 30 秒至油色变红，注意不要炒焦；加入青椒和花菜，重新转大火。",
+        "沿锅边加入生抽和白糖，大火快速翻炒 60–90 秒，让酱料均匀裹住花菜。",
+        "尝味后再决定是否加入 0.5g 盐；确认鸡肉完全熟透，花菜脆嫩、锅底基本无水时关火。"
+      ],
+      "tips": "这是无猪肉适配版，用鸡腿肉替代五花肉；花菜先短焯再少油煸出焦边，比宽油过油更适合家庭操作。",
+      "source": "参考美食博主“村驴”公开发布的家常菜教程；为符合本菜库不含猪肉、尽量不用酒的设定，改用鸡肉并重新核算为一人份。"
     }
   ]
 }
