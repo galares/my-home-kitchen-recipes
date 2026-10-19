@@ -1,0 +1,18 @@
+{
+ "schemaVersion": 1,
+ "publishedAt": "2026-10-19",
+ "app": {
+  "versionName": "8.9",
+  "versionCode": 17,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.9.apk",
+  "sha256": "4d48a06dbfd76b0a7fa6a12e6277ce0838c0636b3d3d139c3058c890a4982abb",
+  "size": 46921170,
+  "notes": "8.9：新增应用内在线更新检查；修复配图；可覆盖安装后续版本（同一签名）。"
+ },
+ "recipes": {
+  "version": 1,
+  "count": 551,
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/haohaochifan-pack.json",
+  "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
+ }
+}
