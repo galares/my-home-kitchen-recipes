@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "publishedAt": "2026-10-19",
  "app": {
-  "versionName": "8.9",
-  "versionCode": 17,
-  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.9.apk",
-  "sha256": "743cccedc75aa5bbfae4f7fad160bbad2eafed30274fa5ee6f4927fccdc0e26a",
-  "size": 46921170,
-  "notes": "8.9 发版流程测试：一键构建+签名+在线发布"
+  "versionName": "8.10",
+  "versionCode": 18,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.10.apk",
+  "sha256": "38f9f2b88823459a71c11e931e024af6ff52a7b16bc64aba983d76f98abe65bc",
+  "size": 46925266,
+  "notes": "一周菜谱默认优先德国超市能买到的食材；每道菜标德国超市/亚洲店；一键买菜分成德国超市与亚洲店两组，并带德语名。"
  },
  "recipes": {
   "version": 1,
