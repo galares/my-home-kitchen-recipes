@@ -5,7 +5,7 @@
   "versionName": "8.9",
   "versionCode": 17,
   "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.9.apk",
-  "sha256": "4d48a06dbfd76b0a7fa6a12e6277ce0838c0636b3d3d139c3058c890a4982abb",
+  "sha256": "633eb880e5554127f7d4dcf26cddb6a20ee984e6530954f033e70a59070a7b6b",
   "size": 46921170,
   "notes": "8.9：新增应用内在线更新检查；修复配图；可覆盖安装后续版本（同一签名）。"
  },
