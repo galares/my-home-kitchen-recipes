@@ -2,12 +2,13 @@
  "schemaVersion": 1,
  "publishedAt": "2026-10-19",
  "app": {
-  "versionName": "8.10.1",
-  "versionCode": 19,
-  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.10.1.apk",
-  "sha256": "3ec0c8e4e1d86b56fd14b45c816c10104ada6b3345139428c79dd0c6efdf43ad",
+  "versionName": "8.10.2",
+  "versionCode": 20,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-8.10.2.apk",
+  "manualUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/latest.apk",
+  "sha256": "2c08f2b717be9fc21f70febe7d3d66b40dbb98ec945fce8f9b858a388fc60619",
   "size": 46925266,
-  "notes": "修复：8.9/8.10 点击检查更新闪退（WebView 回调线程错误）。安装本版后在线更新可正常使用。"
+  "notes": "修复在线更新闪退；新增固定下载地址 apk/latest.apk（手机扫码/短链即可下载）；以后可在 App 内一键更新。"
  },
  "recipes": {
   "version": 1,
