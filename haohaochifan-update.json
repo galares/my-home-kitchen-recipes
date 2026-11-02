@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "publishedAt": "2026-11-02",
  "app": {
-  "versionName": "9.1",
-  "versionCode": 22,
-  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.1.apk",
+  "versionName": "9.2",
+  "versionCode": 23,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.2.apk",
   "manualUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/latest.apk",
-  "sha256": "6fbcbada01eebf0c6512901a547e19ade541bc6fb03ef7d3e21ee04dc348d1cf",
+  "sha256": "f52df29305363c530b7560307e8aeebe3053abb2d8b67a73f29c734323a74aef",
   "size": 808620,
-  "notes": "加入食材页和主题；菜名补到约 9500 道，补全菌类等食材；打开 App 会自动检查更新。"
+  "notes": "设置入口改成带文字的按钮，版本更新挪到设置页最上面。"
  },
  "recipes": {
   "version": 1,
