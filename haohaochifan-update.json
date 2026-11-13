@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131219,
+  "version": 202611131229,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131219.zip",
-  "sha256": "73f6dae99b50fa506add710f4ab941ce4dc9b0683bf0311e5b370275138e14cc",
-  "size": 1299547,
-  "notes": "新增做饭模式：一步一屏大字、屏幕常亮；步骤里的时间可以一键计时，到点响铃震动；用料可以按 ½/1.5/2/3 倍换算"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131229.zip",
+  "sha256": "9017fc9df283986767205ca05f3050a322a376e94757351326f49d3b538367be",
+  "size": 1300380,
+  "notes": "村驴菜页的用料按你家里的食材标“有/缺”，可以只把缺的加进购物清单"
  }
 }
