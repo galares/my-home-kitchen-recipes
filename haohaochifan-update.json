@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "publishedAt": "2026-11-13",
  "app": {
-  "versionName": "9.4",
-  "versionCode": 25,
-  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.4.apk",
+  "versionName": "9.5",
+  "versionCode": 26,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.5.apk",
   "manualUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/latest.apk",
-  "sha256": "6a7c469f7324c82fdc1829658a97eddf1beda49e8e91ea816a6b1249d093ff36",
-  "size": 1304299,
-  "notes": "村驴 519 道菜的做法（用料+步骤，做饭时可逐步划掉）；以后菜谱和界面的小更新会自己下载，不用再装安装包"
+  "sha256": "37ac31d212be95fac2dddc186e5b0455b600a5d30740b3f129b9c541cbd31fbc",
+  "size": 1324839,
+  "notes": "新增做饭模式：一步一屏大字、屏幕常亮；步骤里的时间可以一键计时，到点响铃震动；用料可以按 ½/1.5/2/3 倍换算"
  },
  "recipes": {
   "version": 1,
@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131203,
+  "version": 202611131219,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131203.zip",
-  "sha256": "038570d3cbd055dfdc644aecf9ef65d0d94faf3e2042181fc8265cf1b0ef390e",
-  "size": 1293929,
-  "notes": "分类→村驴 里加了筛选条：简单/中等/费工、30分钟/1小时内、最简单/最快，还有“全部村驴菜”"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131219.zip",
+  "sha256": "73f6dae99b50fa506add710f4ab941ce4dc9b0683bf0311e5b370275138e14cc",
+  "size": 1299547,
+  "notes": "新增做饭模式：一步一屏大字、屏幕常亮；步骤里的时间可以一键计时，到点响铃震动；用料可以按 ½/1.5/2/3 倍换算"
  }
 }
