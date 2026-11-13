@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "publishedAt": "2026-11-13",
  "app": {
-  "versionName": "9.3",
-  "versionCode": 24,
-  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.3.apk",
+  "versionName": "9.4",
+  "versionCode": 25,
+  "apkUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/haohaochifan-9.4.apk",
   "manualUrl": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/apk/latest.apk",
-  "sha256": "1273553dfd2d077723d007d2c85dc63655aba2f955b496e7988250f11e528f8f",
+  "sha256": "6a7c469f7324c82fdc1829658a97eddf1beda49e8e91ea816a6b1249d093ff36",
   "size": 1304299,
-  "notes": "加入村驴 519 道菜的做法（用料+步骤，做饭时可逐步划掉）；以后菜谱和界面小更新不用再装安装包"
+  "notes": "村驴 519 道菜的做法（用料+步骤，做饭时可逐步划掉）；以后菜谱和界面的小更新会自己下载，不用再装安装包"
  },
  "recipes": {
   "version": 1,
@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611130816,
+  "version": 202611130820,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130816.zip",
-  "sha256": "48d6ada728f18d807665848c9961d6d5cf1410df4ec6205d8d59fe475c114dc0",
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130820.zip",
+  "sha256": "3b54d58639622bc81c1e52719029fbd1dafbfb022fd2b26fa118b9df0e4cc2db",
   "size": 1280683,
-  "notes": "首页村驴卡片说明改得更清楚；检查更新不再拿到旧缓存"
+  "notes": "村驴 519 道菜的做法（用料+步骤，做饭时可逐步划掉）；以后菜谱和界面的小更新会自己下载，不用再装安装包"
  }
 }
