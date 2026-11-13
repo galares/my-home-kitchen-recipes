@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131258,
+  "version": 202611131305,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131258.zip",
-  "sha256": "012623976fd68674aa320acc2d86096b5a97d86d7c3fe88bc913b085d628d200",
-  "size": 1305389,
-  "notes": "新增做过记录：菜页一键记一笔（可写备注）、列表显示做过几次、可筛没做过的、一周计划优先排没做过的、做饭模式做完可直接记"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131305.zip",
+  "sha256": "fe286ba99d21655945f963f527f6f26b40a0897aa0a04708e8172e599109e355",
+  "size": 1306437,
+  "notes": "倒计时提醒默认只震动不响铃，不打断你听的播客；设置里可改成震动+铃声"
  }
 }
