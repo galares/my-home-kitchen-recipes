@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611130808,
+  "version": 202611130811,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130808.zip",
-  "sha256": "bf24b68c28f8a10044ed116c9743f919397be965f040664b32b6879a698bbf43",
-  "size": 1280723,
-  "notes": "加入村驴 519 道菜的做法（用料+步骤，做饭时可逐步划掉）；以后菜谱和界面小更新不用再装安装包"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130811.zip",
+  "sha256": "b11dbd47c518a49508e171d8f859b3f1175d2193c7dff2cda859becb3787c256",
+  "size": 1280673,
+  "notes": "首页村驴卡片的说明改得更清楚"
  }
 }
