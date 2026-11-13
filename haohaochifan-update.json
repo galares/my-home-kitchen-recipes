@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131021,
+  "version": 202611131154,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131021.zip",
-  "sha256": "8c1bf54f2f08a6e9d0355ba360847bf9c5dfcdc89e2a28729c99c6bed43241d4",
-  "size": 1289326,
-  "notes": "村驴的菜谱可以按食材找了：食材页“能做什么”里有“只看村驴有做法的”，分类→村驴→按食材"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131154.zip",
+  "sha256": "c68465981437af5eb5c8fe2491a0a868d62e869a892281d34d595e01e0b4b24e",
+  "size": 1293395,
+  "notes": "村驴的菜加了难易程度和用时：食材页可按简单/中等/费工、30分钟内/1小时内筛选，也能按最简单、最快排序"
  }
 }
