@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131247,
+  "version": 202611131258,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131247.zip",
-  "sha256": "48556922b21532678a301b655ce6633809e3983c40c282bb62e5c350a07f53bd",
-  "size": 1303944,
-  "notes": "一周页可以用村驴的菜排一周：按家里食材、快吃的优先，可限制难度和用时，不重样；一键把一周用料加入清单"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131258.zip",
+  "sha256": "012623976fd68674aa320acc2d86096b5a97d86d7c3fe88bc913b085d628d200",
+  "size": 1305389,
+  "notes": "新增做过记录：菜页一键记一笔（可写备注）、列表显示做过几次、可筛没做过的、一周计划优先排没做过的、做饭模式做完可直接记"
  }
 }
