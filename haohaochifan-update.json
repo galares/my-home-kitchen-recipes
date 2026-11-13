@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611131229,
+  "version": 202611131244,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131229.zip",
-  "sha256": "9017fc9df283986767205ca05f3050a322a376e94757351326f49d3b538367be",
-  "size": 1300380,
-  "notes": "村驴菜页的用料按你家里的食材标“有/缺”，可以只把缺的加进购物清单"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611131244.zip",
+  "sha256": "58117db1d5b35fa2fe02be25c01a8a7fcc92da8fd45f4ccbfb808dc5c0e9ad86",
+  "size": 1302093,
+  "notes": "买菜清单可以合并：同一种食材合成一行、用量相加，按肉类/蔬菜等分区；也能切回按菜分"
  }
 }
