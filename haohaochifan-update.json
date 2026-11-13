@@ -17,11 +17,11 @@
   "notes": "菜谱内容包，可在 App「指南 → 在线更新」里检查。"
  },
  "web": {
-  "version": 202611130811,
+  "version": 202611130816,
   "minApp": 24,
-  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130811.zip",
-  "sha256": "b11dbd47c518a49508e171d8f859b3f1175d2193c7dff2cda859becb3787c256",
-  "size": 1280673,
-  "notes": "首页村驴卡片的说明改得更清楚"
+  "url": "https://raw.githubusercontent.com/galares/my-home-kitchen-recipes/main/web/haochi-web-202611130816.zip",
+  "sha256": "48d6ada728f18d807665848c9961d6d5cf1410df4ec6205d8d59fe475c114dc0",
+  "size": 1280683,
+  "notes": "首页村驴卡片说明改得更清楚；检查更新不再拿到旧缓存"
  }
 }
